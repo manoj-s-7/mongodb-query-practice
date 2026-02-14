@@ -1,7 +1,8 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="300" alt="PostgreSQL Logo">
+</p>
+
 <div align="center">
-
-![MongoDB]()
-
 # 🍃 MongoDB Query Practice
 
 **A comprehensive collection of MongoDB queries and operations from basics to advanced concepts**
@@ -170,7 +171,7 @@ This repository uses practical examples including:
 - [MongoDB Official Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-
+- [Master MONGODB in ONE VIDEO: Beginner to Advanced Course For Beginners](https://youtu.be/tww-gbNPOcA?si=PchRjUosT-i9u5CM)
 ---
 
 <div align="center">
