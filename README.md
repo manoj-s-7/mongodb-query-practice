@@ -145,12 +145,6 @@ This repository uses practical examples including:
 - 👥 **Users & Orders** - Relationships and $lookup
 - 📊 **Various Datasets** - Aggregation exercises
 
-## 🛠️ Technologies
-
-- **MongoDB** - NoSQL Database
-- **MongoDB Shell** - Command-line interface
-- **JavaScript** - Query language
-
 ## 📌 Quick Reference
 
 | Operation | Command |
